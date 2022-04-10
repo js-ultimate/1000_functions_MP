@@ -985,4 +985,5 @@ function BmiToWeightToHeight() {
             .sort()
             .join('').length == 26;
     }
+}
     // console.log(evaluateToP4ngram('Jarek nie lubi pić piwa.'))
