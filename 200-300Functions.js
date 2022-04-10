@@ -388,8 +388,8 @@ function multiplication(a, b) {
     console.log(`Wynik mnozenia ${a} * ${b} = ${a * b}`);
 }
 
-multiplication(5, 9);
-}
+//console.log(multiplication(5, 9));
+
 // 279
 const divisibilityByThree = function (liczba) {
 if (liczba % 3 === 0) {
